@@ -48,8 +48,4 @@ To run this game on your local machine, follow these steps:
 
 Feel free to explore the code, report issues, or suggest improvements!
 
-## License
-
-[Optional: Add a license section if you plan to license your project, e.g., MIT License]
-
 ---
