@@ -1,20 +1,18 @@
-# The Dawn of the Dark Ages - Python Text-Based RPG
+# The Dawn of the Dark Ages - Python Console RPG
 
-![Game Screenshot Placeholder](https://via.placeholder.com/600x300?text=Screenshot+of+Game+in+Action)
 *Replace this placeholder image with an actual screenshot of your game running in the console!*
 
-This project is a console-based (text-based) Role-Playing Game (RPG) application developed entirely using Python. Dive into an adventurous story, develop your character, and overcome various challenges within a dark fantasy setting.
+This project is a **purely console-based (text-driven) Role-Playing Game (RPG)** application developed entirely using Python. Players interact with the game through text commands and responses in the terminal, immersing themselves in an adventurous story, developing their character, and overcoming challenges within a dark fantasy setting.
 
 ## Features
 
 The game's core mechanics and features include:
 
-* **Character Creation:** Players can create their own characters and define their initial statistics (e.g., Strength, Dexterity, Health).
-* **Exploration & Story Progression:** Navigate through different regions and advance the game's captivating narrative through player choices.
+* **Character Creation:** Players create and define their character's initial statistics (e.g., Strength, Dexterity, Health) via console input.
+* **Exploration & Story Progression:** Navigate through different regions and advance the game's captivating narrative through text-based choices and descriptions.
 * **Dynamic Combat System:** Engage in a strategic, turn-based combat system displayed directly in the console, where player decisions and character abilities are key.
-* **Inventory Management:** Collect, use, and effectively manage various in-game items, weapons, and armor.
-* **Progression Mechanics:** Characters gain experience, level up, increase their stats, and acquire new abilities as they progress.
-* **Save/Load Functionality:** Players have the ability to save their game progress and resume their adventure at a later time.
+* **Inventory Management:** Players collect, use, and effectively manage various in-game items, weapons, and armor through text commands.
+* **Market System:** Players can buy and sell items, weapons, and armor within the game's console interface to enhance their character or manage resources.
 
 ## Technologies Used
 
@@ -40,7 +38,7 @@ To run this game on your local machine, follow these steps:
     cd your-rpg-game-repo
     ```
 
-3.  **Run the game:**
+3.  **Run the game from your terminal/command prompt:**
     ```bash
     python main_game.py
     ```
