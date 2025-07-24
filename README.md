@@ -1,7 +1,5 @@
 # The Dawn of the Dark Ages - Python Console RPG
 
-*Replace this placeholder image with an actual screenshot of your game running in the console!*
-
 This project is a **purely console-based (text-driven) Role-Playing Game (RPG)** application developed entirely using Python. Players interact with the game through text commands and responses in the terminal, immersing themselves in an adventurous story, developing their character, and overcoming challenges within a dark fantasy setting.
 
 ## Features
@@ -23,26 +21,6 @@ This application was developed using the following technologies:
     * `random` - For various randomization needs (e.g., combat outcomes, item drops).
     * `time` - For managing game timing and pauses (e.g., displaying text gradually).
 
-## How to Play (or How to Run)
-
-To run this game on your local machine, follow these steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/your-rpg-game-repo.git](https://github.com/YourUsername/your-rpg-game-repo.git)
-    ```
-    *(Replace `YourUsername` and `your-rpg-game-repo` with your actual GitHub username and repository name)*
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd your-rpg-game-repo
-    ```
-
-3.  **Run the game from your terminal/command prompt:**
-    ```bash
-    python main_game.py
-    ```
-    *(Replace `main_game.py` with the actual name of your main game file, e.g., `game.py`)*
 
 ## Contribution
 
